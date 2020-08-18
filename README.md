@@ -1,1 +1,1 @@
-# ilyf-python
+自学python，自娱自乐，代码简单垃圾，请多指教！
